@@ -2,7 +2,7 @@
 
 Research internship project at **IIT Hyderabad**, replicating and critically evaluating **SQLBarber** — an LLM-driven SQL workload synthesis system ([Lao & Trummer, SIGMOD 2026](https://doi.org/10.1145/3786699)) — on the Join Order Benchmark (JOB/IMDB).
 
-**Live dashboards:** [→ view all interactive results](https://Rushil-narendula.github.io/Application-aware-Benchmarking/)
+**Live dashboards:** [→ view all interactive results](https://Rushilx03.github.io/Application-aware-Benchmarking/)
 *(HTML dashboards render directly in-browser via GitHub Pages — no need to download.)*
 
 ---
